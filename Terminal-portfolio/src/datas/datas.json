@@ -1,0 +1,46 @@
+{
+  "readmeUrl": "https://github.com/shadilvp/shadilvp/blob/main/README.md",
+  "title": "MyPortfolio",
+  "name": "MUhammed Shadil",
+  "ascii": "MyPortfolio",
+  "social": {
+    "github": "shadilvp",
+    "linkedin": "muhammedshadilvp/",
+    "leetcode": "shadilvp/"
+  },
+  "projects": {
+    "babyProducts": "https://baby-productsdi.onrender.com/",
+    "babyProductsFrontend" : "https://github.com/shadilvp/Baby_Products",
+    "babyProductsBackend" : "https://github.com/shadilvp/Baby-Products-ServerSide",
+    "intellectaWeb": "https://intellecta-web.vercel.app/",
+    "intellectaRepoFrontend": "https://github.com/shadilvp/intellecta-client",
+    "intellectaRepoBackend": "https://github.com/shadilvp/intellecta",
+    "swapit": "https://github.com/shadilvp/Swapit-ecommerce"
+  },
+  "email": "shadilx8@email.com",
+  "ps1_hostname": "shadil",
+  "ps1_username":"MyPortfolio",
+  "whoami": "Hi, I'm Muhammed Shadil, a passionate Full Stack Developer from Kerala, India. I completed my Diploma in Computer Engineering in 2024, alongside my Higher Secondary Education in Computer Science. Currently, I’m working as a MERN Stack Trainee at Bridgeon Solutions, where I’ve gained over a year of hands-on experience with modern technologies including JavaScript, React, Redux, Next.js, TypeScript, Node.js, Express.js, MongoDB, and PostgreSQL. During this period, I have worked on a variety of live projects such as e-commerce platforms, learning management systems (LMS), task management applications, and other full-fledged web applications. I'm a self-learner who adapts quickly to new tools and technologies. I enjoy solving complex challenges, and I'm deeply committed to achieving excellence in my field. ",
+  "repo": "https://github.com/shadilvp/terminal-portfolio",
+  "resume_url": "https://shadil-fullstack-resume.tiiny.site",
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#000000",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    }
+  }
+}
